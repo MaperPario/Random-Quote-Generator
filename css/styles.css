@@ -89,7 +89,7 @@ h1 {
   position: absolute;
 }
 
-.source {
+.source, .tags {
   font-size: 1rem;
   letter-spacing: 0.05em;
   line-height: 1.1;
