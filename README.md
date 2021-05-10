@@ -1,3 +1,3 @@
-random-quote-generator
+# random-quote-generator
 
 My first TechDegree project!
